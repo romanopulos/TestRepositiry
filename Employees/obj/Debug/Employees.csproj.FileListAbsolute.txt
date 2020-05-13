@@ -1,0 +1,31 @@
+D:\Project Employees\Employees\Employees\bin\Debug\Employees.exe.config
+D:\Project Employees\Employees\Employees\bin\Debug\Employees.exe
+D:\Project Employees\Employees\Employees\bin\Debug\Employees.pdb
+D:\Project Employees\Employees\Employees\obj\Debug\Employees.csprojAssemblyReference.cache
+D:\Project Employees\Employees\Employees\obj\Debug\Employees.Properties.Resources.resources
+D:\Project Employees\Employees\Employees\obj\Debug\Employees.csproj.GenerateResource.cache
+D:\Project Employees\Employees\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+D:\Project Employees\Employees\Employees\obj\Debug\Employees.exe
+D:\Project Employees\Employees\Employees\obj\Debug\Employees.pdb
+D:\GIT\ProjectEmployees\Employees\Employees\obj\Debug\Employees.csprojAssemblyReference.cache
+D:\GIT\ProjectEmployees\Employees\Employees\obj\Debug\Employees.Form1.resources
+D:\GIT\ProjectEmployees\Employees\Employees\obj\Debug\Employees.Form1AddEdit.resources
+D:\GIT\ProjectEmployees\Employees\Employees\obj\Debug\Employees.Properties.Resources.resources
+D:\GIT\ProjectEmployees\Employees\Employees\obj\Debug\Employees.csproj.GenerateResource.cache
+D:\GIT\ProjectEmployees\Employees\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+D:\GIT\ProjectEmployees\Employees\Employees\obj\Debug\Employees.exe
+D:\GIT\ProjectEmployees\Employees\Employees\obj\Debug\Employees.pdb
+D:\GIT\ProjectEmployees\Employees\Employees\bin\Debug\Employees.exe.config
+D:\GIT\ProjectEmployees\Employees\Employees\bin\Debug\Employees.exe
+D:\GIT\ProjectEmployees\Employees\Employees\bin\Debug\Employees.pdb
+D:\GIT\Employee\Employees\bin\Debug\Employees.exe.config
+D:\GIT\Employee\Employees\bin\Debug\Employees.exe
+D:\GIT\Employee\Employees\bin\Debug\Employees.pdb
+D:\GIT\Employee\Employees\obj\Debug\Employees.csprojAssemblyReference.cache
+D:\GIT\Employee\Employees\obj\Debug\Employees.Form1.resources
+D:\GIT\Employee\Employees\obj\Debug\Employees.Form1AddEdit.resources
+D:\GIT\Employee\Employees\obj\Debug\Employees.Properties.Resources.resources
+D:\GIT\Employee\Employees\obj\Debug\Employees.csproj.GenerateResource.cache
+D:\GIT\Employee\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+D:\GIT\Employee\Employees\obj\Debug\Employees.exe
+D:\GIT\Employee\Employees\obj\Debug\Employees.pdb
